@@ -16,6 +16,8 @@
 <p align="left">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
   <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js" />
+  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql" />
   <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" />
   <img src="https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter" />
   <img src="https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase" />
