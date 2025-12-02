@@ -49,18 +49,16 @@
 
 ---
 
+
 ### 📊 GitHub Analytics
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mockirdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mockirdev&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mockirdev&theme=tokyonight&hide_border=true" alt="streak" />
+</div>
 
 ---
 
